@@ -25,7 +25,3 @@ To scrape data from a website using Python, you need to:
 - **Selenium 🚗**: A tool that allows you to automate web browsers. Useful for scraping websites that are dynamically generated or require login credentials.
 - **Scrapy 🕷️**: A framework for web scraping. It offers features like support for crawling multiple websites and extracting data in different formats.
 - **Octoparse 🐙**: A visual web scraping tool that allows you to create scrapers without writing code, making it accessible for non-programmers.
-
-## Resources 📖
-
-There are many online resources available to help you learn more about web scraping in Python. Enhance your skills and explore the world of data extraction!
